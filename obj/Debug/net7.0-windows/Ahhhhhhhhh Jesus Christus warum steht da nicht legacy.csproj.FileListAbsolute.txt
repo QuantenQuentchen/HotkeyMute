@@ -1,0 +1,7 @@
+C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\obj\Debug\net7.0-windows\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy.csproj.AssemblyReference.cache
+C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\obj\Debug\net7.0-windows\Ahhhhhhhhh_Jesus_Christus_warum_steht_da_nicht_legacy.Form1.resources
+C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\obj\Debug\net7.0-windows\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy.csproj.GenerateResource.cache
+C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\obj\Debug\net7.0-windows\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\obj\Debug\net7.0-windows\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy.AssemblyInfoInputs.cache
+C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\obj\Debug\net7.0-windows\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy.AssemblyInfo.cs
+C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\obj\Debug\net7.0-windows\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy.csproj.CoreCompileInputs.cache
