@@ -1,14 +1,12 @@
 C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\bin\Release\net7.0-windows10.0.22621.0\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy.exe
-C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\bin\Release\net7.0-windows10.0.22621.0\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy.deps.json
-C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\bin\Release\net7.0-windows10.0.22621.0\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy.runtimeconfig.json
 C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\bin\Release\net7.0-windows10.0.22621.0\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy.dll
-C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\bin\Release\net7.0-windows10.0.22621.0\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy.pdb
+C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\bin\Release\net7.0-windows10.0.22621.0\NAudio.Wasapi.dll
+C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\bin\Release\net7.0-windows10.0.22621.0\Bugsnag.dll
 C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\bin\Release\net7.0-windows10.0.22621.0\Microsoft.Toolkit.Uwp.Notifications.dll
 C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\bin\Release\net7.0-windows10.0.22621.0\NAudio.dll
 C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\bin\Release\net7.0-windows10.0.22621.0\NAudio.Asio.dll
 C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\bin\Release\net7.0-windows10.0.22621.0\NAudio.Core.dll
 C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\bin\Release\net7.0-windows10.0.22621.0\NAudio.Midi.dll
-C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\bin\Release\net7.0-windows10.0.22621.0\NAudio.Wasapi.dll
 C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\bin\Release\net7.0-windows10.0.22621.0\NAudio.WinForms.dll
 C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\bin\Release\net7.0-windows10.0.22621.0\NAudio.WinMM.dll
 C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\bin\Release\net7.0-windows10.0.22621.0\System.Runtime.InteropServices.WindowsRuntime.dll
@@ -18,16 +16,19 @@ C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legac
 C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\bin\Release\net7.0-windows10.0.22621.0\WinRT.Runtime.dll
 C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\obj\Release\net7.0-windows10.0.22621.0\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy.csproj.AssemblyReference.cache
 C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\obj\Release\net7.0-windows10.0.22621.0\Ahhhhhhhhh_Jesus_Christus_warum_steht_da_nicht_legacy.Form1.resources
+C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\obj\Release\net7.0-windows10.0.22621.0\Ahhhhhhhhh_Jesus_Christus_warum_steht_da_nicht_legacy.Properties.Resources.resources
 C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\obj\Release\net7.0-windows10.0.22621.0\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy.csproj.GenerateResource.cache
 C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\obj\Release\net7.0-windows10.0.22621.0\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\obj\Release\net7.0-windows10.0.22621.0\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy.AssemblyInfoInputs.cache
 C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\obj\Release\net7.0-windows10.0.22621.0\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy.AssemblyInfo.cs
 C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\obj\Release\net7.0-windows10.0.22621.0\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy.csproj.CoreCompileInputs.cache
+C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\obj\Release\net7.0-windows10.0.22621.0\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy.sourcelink.json
 C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\obj\Release\net7.0-windows10.0.22621.0\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy.csproj.CopyComplete
 C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\obj\Release\net7.0-windows10.0.22621.0\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy.dll
 C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\obj\Release\net7.0-windows10.0.22621.0\refint\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy.dll
 C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\obj\Release\net7.0-windows10.0.22621.0\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy.pdb
+C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\bin\Release\net7.0-windows10.0.22621.0\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy.deps.json
+C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\bin\Release\net7.0-windows10.0.22621.0\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy.runtimeconfig.json
+C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\bin\Release\net7.0-windows10.0.22621.0\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy.pdb
 C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\obj\Release\net7.0-windows10.0.22621.0\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy.genruntimeconfig.cache
 C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\obj\Release\net7.0-windows10.0.22621.0\ref\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy.dll
-C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\bin\Release\net7.0-windows10.0.22621.0\Bugsnag.dll
-C:\Users\qquen\source\repos\Ahhhhhhhhh Jesus Christus warum steht da nicht legacy\obj\Release\net7.0-windows10.0.22621.0\Ahhhhhhhhh_Jesus_Christus_warum_steht_da_nicht_legacy.Properties.Resources.resources

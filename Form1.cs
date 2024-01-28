@@ -1,5 +1,3 @@
-using System.Windows.Forms;
-
 namespace Ahhhhhhhhh_Jesus_Christus_warum_steht_da_nicht_legacy
 {
     public partial class Form1 : Form

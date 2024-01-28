@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ahhhhhhhhh Jesus Christus warum steht da nicht legacy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5216c0ffa9398afeb35056f2291e212ebdb63706")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ahhhhhhhhh Jesus Christus warum steht da nicht legacy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ahhhhhhhhh Jesus Christus warum steht da nicht legacy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

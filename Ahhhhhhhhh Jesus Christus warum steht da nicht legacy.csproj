@@ -10,6 +10,7 @@
     <UseWPF>True</UseWPF>
     <SupportedOSPlatformVersion>7.0</SupportedOSPlatformVersion>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <PackageId>HotkeyMute</PackageId>
   </PropertyGroup>
 
   <ItemGroup>

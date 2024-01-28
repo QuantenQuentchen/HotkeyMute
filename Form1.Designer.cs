@@ -36,7 +36,7 @@
             // notifyIcon1
             // 
             notifyIcon1.Icon = (Icon)resources.GetObject("notifyIcon1.Icon");
-            notifyIcon1.Text = "notifyIcon1";
+            notifyIcon1.Text = "HotkeyMute";
             notifyIcon1.MouseDoubleClick += notifyIcon1_MouseDoubleClick;
             // 
             // Form1
